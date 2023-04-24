@@ -1,4 +1,4 @@
-# rough
+# Bill splitting app
 
 A new Flutter project.
 
