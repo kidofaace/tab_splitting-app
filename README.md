@@ -1,6 +1,6 @@
 # Bill splitting app
 
-A new Flutter project.
+This Flutter project is an app which can be used to split the bills evenly between a number of people and adds a tip percentage so that they can distribute them equally
 
 ## Getting Started
 
